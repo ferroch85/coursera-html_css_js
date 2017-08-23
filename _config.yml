@@ -1,0 +1,8 @@
+title: Coursera-html css js
+description: HTML, CSS, and Javascript for Web Developers Assignments
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
